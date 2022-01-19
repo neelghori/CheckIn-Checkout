@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.text {
+  display: flex;
+  width: 2000px;
+  margin-left: 20px;
+  padding: 20px 10px;
+}
+.text h5 {
+  padding-right: 50px;
+}
